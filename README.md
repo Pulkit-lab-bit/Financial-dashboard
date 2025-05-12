@@ -27,3 +27,5 @@ Power BI
 Excel / CSV (for data import & preprocessing)
 
 DAX (for calculated columns/measures)
+
+https://github.com/Pulkit-lab-bit/Financial-dashboard/blob/main/Financial%20Dashboard%20.png
