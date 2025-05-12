@@ -3,12 +3,19 @@ This repository contains a financial dashboard created using Power BI to visuali
 
 🧾 Overview
 The dashboard provides insights into:
+
 Total Sales
+
 Total Profit
+
 Total Quantity Sold
+
 Cost of Goods Sold (COGS)
+
 Product Performance
+
 Sales by Country and Segment
+
 Monthly Trends by Year
 
 📊 Key Visuals & Metrics
