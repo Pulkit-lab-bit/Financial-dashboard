@@ -1,5 +1,4 @@
-# Financial-dashboard
-📊 Financial Dashboard Project
+📊 Financial Dashboard - Power Bi Project
 This repository contains a financial dashboard created using Power BI to visualize key financial metrics across different products, countries, and sales segments.
 
 🧾 Overview
@@ -27,5 +26,5 @@ Power BI
 Excel / CSV (for data import & preprocessing)
 
 DAX (for calculated columns/measures)
-
+https://github.com/Pulkit-lab-bit/Financial-dashboard/blob/main/Financial%20dashboard.pbix
 https://github.com/Pulkit-lab-bit/Financial-dashboard/blob/main/Financial%20Dashboard%20.png
