@@ -37,3 +37,5 @@ DAX (for calculated columns/measures)
 https://github.com/Pulkit-lab-bit/Financial-dashboard/blob/main/Financial%20dashboard.pbix
 
 https://github.com/Pulkit-lab-bit/Financial-dashboard/blob/main/Financial%20Dashboard%20.png
+
+![image](https://github.com/user-attachments/assets/b78d05a7-5860-4fbf-9b01-c1e8a9533dd3)
