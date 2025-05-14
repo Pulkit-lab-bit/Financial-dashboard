@@ -1,4 +1,4 @@
-📊 Financial Dashboard - Power Bi Project
+📊 Financial Performance Overview- Power Bi Project
 This repository contains a financial dashboard created using Power BI to visualize key financial metrics across different products, countries, and sales segments.
 
 🧾 Overview
